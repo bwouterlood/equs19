@@ -1,1 +1,3 @@
 I'm just a simple text file
+
+after commit add -m "comment"
